@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="exportSvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 801 645.97">
+  <rect x=".5" y=".5" width="800" height="625" style="fill: #fff; stroke: #000; stroke-miterlimit: 10;"/>
+  <g id="outer-container-svg_dw-chart-styles-svg_datawrapper-4izvq-1oc2slw-svg_svelte-13lpkhe-svg_static-svg" data-name="outer-container-svg dw-chart-styles-svg datawrapper-4izvq-1oc2slw-svg svelte-13lpkhe-svg static-svg">
+    <g id="chart-svg">
+      <rect x="113.94" y="3.3" width="13" height="14" style="fill: none; stroke-width: 0px;"/>
+      <path d="M114.44,3.8h12v13h-12V3.8Z" style="fill: none; stroke-width: 0px;"/>
+      <g style="isolation: isolate;">
+        <text transform="translate(515.2 25.04)" style="fill: #1a1a1a; font-family: Larsseit-Bold, Larsseit; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: 0em;">F</tspan><tspan x="6.83" y="0">emale</tspan></text>
+      </g>
+      <rect x="188.91" y="3.3" width="13" height="14" style="fill: none; stroke-width: 0px;"/>
+      <path d="M189.41,3.8h12v13h-12V3.8Z" style="fill: none; stroke-width: 0px;"/>
+      <g style="isolation: isolate;">
+        <text transform="translate(464.5 25.04)" style="fill: #1a1a1a; font-family: Larsseit-Bold, Larsseit; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Male</tspan></text>
+      </g>
+      <rect x="506.84" y="32.42" width="106.09" height="20" style="fill: #f56647; stroke-width: 0px;"/>
+      <rect x="506.84" y="56.42" width="77.23" height="20" style="fill: #f56647; stroke-width: 0px;"/>
+      <rect x="506.84" y="80.42" width="73.83" height="20" style="fill: #f56647; stroke-width: 0px;"/>
+      <rect x="506.84" y="104.42" width="67.88" height="20" style="fill: #f56647; stroke-width: 0px;"/>
+      <rect x="506.84" y="128.42" width="57.48" height="20" style="fill: #f56647; stroke-width: 0px;"/>
+      <rect x="506.84" y="152.42" width="36.58" height="20" style="fill: #f56647; stroke-width: 0px;"/>
+      <rect x="506.84" y="176.42" width="16.72" height="20" style="fill: #f56647; stroke-width: 0px;"/>
+      <rect x="492.19" y="200.42" width="14.67" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="475.22" y="224.42" width="31.64" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="470.16" y="248.42" width="36.7" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="459.8" y="272.42" width="47.06" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="455.77" y="296.42" width="51.09" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="432.73" y="320.42" width="74.12" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="389.48" y="344.42" width="117.38" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="389.03" y="368.42" width="117.83" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="386.8" y="392.42" width="120.06" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="327.38" y="416.42" width="179.48" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="282.44" y="440.42" width="224.42" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="149.52" y="464.42" width="357.34" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <rect x="114.94" y="488.42" width="391.92" height="20" style="fill: #c6ddf4; stroke-width: 0px;"/>
+      <g id="grid-container-svg">
+        <g id="grid-svg">
+          <g id="x-base-lines-svg_grid-x-svg_datawrapper-4izvq-1ds6vhq-svg" data-name="x-base-lines-svg grid-x-svg datawrapper-4izvq-1ds6vhq-svg">
+            <line x1="506.86" y1="508.42" x2="506.86" y2="32.42" style="fill: none; stroke: #1a1a1a;"/>
+          </g>
+        </g>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(619.42 47.42)" style="fill: #000; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">L</tspan><tspan x="7.04" y="0" style="letter-spacing: -.01em;">o</tspan><tspan x="15.05" y="0">w back pain</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(588.8 72.58)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Dep</tspan><tspan x="26.47" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="31.09" y="0">essi</tspan><tspan x="54.6" y="0" style="letter-spacing: 0em;">v</tspan><tspan x="61.49" y="0" style="letter-spacing: 0em;">e diso</tspan><tspan x="98.26" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="102.88" y="0">ders</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(586.17 97.73)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Headache diso</tspan><tspan x="91.74" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="96.36" y="0" style="letter-spacing: 0em;">ders</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(578.35 121.58)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Anxiety diso</tspan><tspan x="76.44" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="81.06" y="0">ders</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(569.35 145.42)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Other musculos</tspan><tspan x="96.77" y="0" style="letter-spacing: -.01em;">k</tspan><tspan x="103.57" y="0" style="letter-spacing: 0em;">eletal diso</tspan><tspan x="166.74" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="171.36" y="0">ders</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(549.52 169.58)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Alzheimer&apos;s disease and other dementias</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(528.56 193.42)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">HIV/AIDS</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(277.75 217.42)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">A</tspan><tspan x="9.69" y="0" style="letter-spacing: 0em;">g</tspan><tspan x="16.74" y="0">e-</tspan><tspan x="29.6" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="34.22" y="0">elat</tspan><tspan x="57.19" y="0" style="letter-spacing: 0em;">e</tspan><tspan x="65.04" y="0">d and other hearing loss</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(363.59 241.42)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Dia</tspan><tspan x="20.54" y="0" style="letter-spacing: .01em;">b</tspan><tspan x="29.12" y="0" style="letter-spacing: 0em;">etes mellitus</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(322.94 265.42)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Ch</tspan><tspan x="17.64" y="0" style="letter-spacing: -.01em;">r</tspan><tspan x="22.26" y="0">onic kidn</tspan><tspan x="78.05" y="0" style="letter-spacing: 0em;">e</tspan><tspan x="85.69" y="0" style="letter-spacing: 0em;">y disease</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(282.88 289.42)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">L</tspan><tspan x="7.04" y="0" style="letter-spacing: -.01em;">ow</tspan><tspan x="25.66" y="0" style="letter-spacing: 0em;">er </tspan><tspan x="41.05" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="45.67" y="0">espi</tspan><tspan x="71.52" y="0" style="letter-spacing: -.01em;">r</tspan><tspan x="76.1" y="0">ato</tspan><tspan x="96.07" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="100.91" y="0">y inf</tspan><tspan x="126.36" y="0" style="letter-spacing: 0em;">e</tspan><tspan x="134.22" y="0" style="letter-spacing: 0em;">ctions</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(425.42 313)" style="fill: #333; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: -.03em;">F</tspan><tspan x="6.37" y="0" style="letter-spacing: 0em;">alls</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(350.05 337.42)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: -.11em;">T</tspan><tspan x="7.01" y="0">u</tspan><tspan x="14.41" y="0" style="letter-spacing: .01em;">b</tspan><tspan x="22.99" y="0" style="letter-spacing: 0em;">e</tspan><tspan x="30.73" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="35.35" y="0">culosis</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(134.5 361.42)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Cirrhosis and other ch</tspan><tspan x="133.98" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="138.6" y="0" style="letter-spacing: 0em;">onic li</tspan><tspan x="174.94" y="0" style="letter-spacing: 0em;">v</tspan><tspan x="181.83" y="0">er diseases</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(144.22 385.42)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Ch</tspan><tspan x="17.64" y="0" style="letter-spacing: -.01em;">r</tspan><tspan x="22.26" y="0">onic obstructi</tspan><tspan x="107.49" y="0" style="letter-spacing: 0em;">v</tspan><tspan x="114.38" y="0" style="letter-spacing: 0em;">e pulmona</tspan><tspan x="178.44" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="183.29" y="0">y disease</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(165.56 409.42)" style="fill: #1a1a1a; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: -.09em;">T</tspan><tspan x="7.2" y="0" style="letter-spacing: -.01em;">r</tspan><tspan x="11.77" y="0" style="letter-spacing: 0em;">acheal, b</tspan><tspan x="65.9" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="70.52" y="0" style="letter-spacing: 0em;">onchu</tspan><tspan x="108.57" y="0" style="letter-spacing: 0em;">s</tspan><tspan x="114.66" y="0">, and lung cancer</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(283.44 433.42)" style="fill: #333; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">St</tspan><tspan x="12.29" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="16.91" y="0" style="letter-spacing: 0em;">o</tspan><tspan x="25.06" y="0" style="letter-spacing: -.01em;">k</tspan><tspan x="31.86" y="0">e</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(198.91 457.42)" style="fill: #333; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Road injuries</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(3.5 481.42)" style="fill: #333; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Ischemic hea</tspan><tspan x="80.05" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="84.89" y="0">t disease</tspan></text>
+      </g>
+      <g style="isolation: isolate;">
+        <text transform="translate(46.58 505.79)" style="fill: #333; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: 0em;">C</tspan><tspan x="10.11" y="0" style="letter-spacing: -.03em;">O</tspan><tspan x="20.75" y="0">VID-19</tspan></text>
+      </g>
+    </g>
+    <g id="above-footer-svg_datawrapper-4izvq-f9vec7-svg" data-name="above-footer-svg datawrapper-4izvq-f9vec7-svg">
+      <g style="isolation: isolate;">
+        <text transform="translate(4.59 566.92)" style="fill: #767676; font-family: Larsseit, Larsseit; font-size: 13px; isolation: isolate;"><tspan x="0" y="0">Cha</tspan><tspan x="22.8" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="27.3" y="0">t sh</tspan><tspan x="47.18" y="0" style="letter-spacing: 0em;">o</tspan><tspan x="54.61" y="0">ws the 2021 global absolute di</tspan><tspan x="221.67" y="0" style="letter-spacing: 0em;">f</tspan><tspan x="226.12" y="0">fe</tspan><tspan x="237.62" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="241.91" y="0">ence in disability−adjust</tspan><tspan x="377.98" y="0" style="letter-spacing: 0em;">e</tspan><tspan x="385.27" y="0">d life </tspan><tspan x="416.29" y="0" style="letter-spacing: 0em;">y</tspan><tspan x="422.71" y="0">ear (</tspan><tspan x="446.98" y="0" style="letter-spacing: -.03em;">D</tspan><tspan x="456.03" y="0">A</tspan><tspan x="465.03" y="0" style="letter-spacing: -.14em;">L</tspan><tspan x="469.71" y="0">Y) </tspan><tspan x="484.71" y="0" style="letter-spacing: -.01em;">r</tspan><tspan x="488.96" y="0">ates (</tspan><tspan x="519.09" y="0" style="letter-spacing: .01em;">p</tspan><tspan x="527.17" y="0">er 100,000 </tspan><tspan x="587.36" y="0" style="letter-spacing: .01em;">p</tspan><tspan x="595.43" y="0" style="letter-spacing: 0em;">e</tspan><tspan x="602.72" y="0">ople) </tspan><tspan x="634.8" y="0" style="letter-spacing: .01em;">b</tspan><tspan x="642.77" y="0" style="letter-spacing: 0em;">et</tspan><tspan x="654.51" y="0" style="letter-spacing: 0em;">w</tspan><tspan x="664.37" y="0" style="letter-spacing: 0em;">e</tspan><tspan x="671.66" y="0" style="letter-spacing: 0em;">en females and male</tspan><tspan x="787.28" y="0" style="letter-spacing: 0em;">s</tspan><tspan x="792.93" y="0">.</tspan><tspan x="0" y="15.6" style="letter-spacing: -.03em;">D</tspan><tspan x="9.05" y="15.6" style="letter-spacing: 0em;">A</tspan><tspan x="18.04" y="15.6" style="letter-spacing: -.14em;">L</tspan><tspan x="22.72" y="15.6" style="letter-spacing: 0em;">Ys a</tspan><tspan x="46.32" y="15.6" style="letter-spacing: 0em;">r</tspan><tspan x="50.61" y="15.6">e a</tspan><tspan x="66.9" y="15.6" style="letter-spacing: 0em;">g</tspan><tspan x="73.45" y="15.6">e−standa</tspan><tspan x="124.63" y="15.6" style="letter-spacing: 0em;">r</tspan><tspan x="128.92" y="15.6">diz</tspan><tspan x="145.87" y="15.6" style="letter-spacing: 0em;">e</tspan><tspan x="153.16" y="15.6">d (10 </tspan><tspan x="181.58" y="15.6" style="letter-spacing: 0em;">y</tspan><tspan x="188" y="15.6">ears and older) </tspan></text>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <text transform="translate(5.11 620.41)" style="fill: #767676; font-family: Larsseit, Larsseit; font-size: 13px; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: .08em;">Cha</tspan><tspan x="25.77" y="0" style="letter-spacing: .08em;">r</tspan><tspan x="31.25" y="0" style="letter-spacing: .08em;">t:</tspan></text>
+      <text transform="translate(49.28 620.41)" style="fill: #767676; font-family: Larsseit, Larsseit; font-size: 13px; isolation: isolate; letter-spacing: .08em;"><tspan x="0" y="0">CFR/Allison Krugman</tspan></text>
+      <text transform="translate(191.89 620.41)" style="fill: #767676; font-family: Larsseit, Larsseit; font-size: 13px; isolation: isolate; letter-spacing: .08em;"><tspan x="0" y="0">•</tspan></text>
+      <text transform="translate(201.19 620.41)" style="fill: #767676; font-family: Larsseit, Larsseit; font-size: 13px; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: .08em;">Sou</tspan><tspan x="24.26" y="0" style="letter-spacing: .07em;">r</tspan><tspan x="29.54" y="0" style="letter-spacing: .08em;">ce</tspan></text>
+      <text transform="translate(247.03 620.41)" style="fill: #767676; font-family: Larsseit, Larsseit; font-size: 13px; isolation: isolate; letter-spacing: .08em;"><tspan x="0" y="0">:</tspan></text>
+      <text transform="translate(254.35 620.41)" style="fill: #767676; font-family: Larsseit, Larsseit; font-size: 13px; isolation: isolate; letter-spacing: .08em;"><tspan x="0" y="0">Institute for Health Metrics and Evaluation</tspan></text>
+    </g>
+    <g id="image">
+      <path d="M706.35,611.53h-6.74v1.74h2.39v8.04h1.97v-8.04h2.38v-1.74Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M706.79,621.31h1.97v-3.98c0-.98.31-1.46.91-1.46.51,0,.76.35.76,1.06v4.38h1.98v-4.61c0-1.55-.6-2.31-1.81-2.31-.88,0-1.51.44-1.85,1.3v-4.16h-1.97v9.78Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M713.27,613.49h2.03v-1.96h-2.03v1.96ZM713.32,621.31h1.94v-6.75h-1.94v6.75Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M716.28,621.31h1.97v-3.99c0-.96.31-1.43.9-1.43.53,0,.78.35.78,1.11v4.31h1.98v-4.59c0-1.55-.6-2.31-1.82-2.31-.91,0-1.54.45-1.91,1.35v-1.19h-1.89v6.75Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M726.7,621.31h2.15l-1.99-4.21,1.94-2.54h-2.21l-1.77,2.78v-5.82h-1.97v9.78h1.97v-1.99l.64-.91,1.23,2.89Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M733.7,621.48c1.22,0,2.03-.64,2.37-1.69l.08,1.52h1.51v-5.33h-3.61v1.55h1.63v.24c0,1.3-.47,2.1-1.44,2.1-1.12,0-1.65-.84-1.65-3.46s.55-3.32,1.61-3.32c.91,0,1.31.63,1.4,1.81l2.05-.39c-.13-1.89-1.31-2.98-3.42-2.98-2.39,0-3.79,1.51-3.79,4.88s1.16,5.07,3.26,5.07Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M740.48,611.53h-1.97v9.78h1.97v-9.78Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M744.23,621.42c1.79,0,3.04-1.02,3.04-3.5s-1.24-3.5-3.04-3.5-3.04,1.02-3.04,3.5,1.24,3.5,3.04,3.5ZM744.23,620.05c-.6,0-.99-.45-.99-2.14s.39-2.14.99-2.14.99.45.99,2.14-.39,2.14-.99,2.14Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M751.53,621.42c1.54,0,2.34-1.11,2.34-3.5s-.79-3.5-2.22-3.5c-.84,0-1.46.41-1.75,1.12v-4h-2.01v9.78h1.79l.13-1.06c.27.74.88,1.16,1.71,1.16ZM750.8,620.01c-.59,0-.94-.51-.94-1.42v-1.38c0-.88.36-1.4.95-1.4.66,0,.95.54.95,2.1s-.31,2.1-.96,2.1Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M756.25,621.42c.95,0,1.69-.48,1.89-1.2,0,.32.04.78.09,1.1h1.93c-.11-.48-.15-1-.15-1.74v-2.78c0-1.69-.82-2.39-2.7-2.39-1.67,0-2.85.75-2.86,2.42h1.99c.01-.74.21-1.14.84-1.14.5,0,.72.28.72.92v.49l-1.32.23c-.8.15-1.39.37-1.75.68-.39.33-.64.82-.64,1.46,0,1.18.75,1.95,1.97,1.95ZM757.07,620.1c-.47,0-.72-.32-.72-.82,0-.58.32-.88.95-1.02l.76-.16v.92c0,.66-.4,1.07-.99,1.07Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M762.87,611.53h-1.97v9.78h1.97v-9.78Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M772.11,611.53h-2.07v4.09h-2.7v-4.09h-2.06v9.78h2.06v-4.1h2.7v4.1h2.07v-9.78Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M778.61,617.46c0-1.9-1.02-3.05-2.86-3.05s-2.96,1.1-2.96,3.5,1.19,3.5,3.05,3.5c1.4,0,2.49-.72,2.74-2.03l-1.67-.49c-.13.8-.53,1.1-1.04,1.1-.72,0-1.1-.49-1.12-1.67h3.87v-.86ZM774.74,617.22c.03-1.24.4-1.63.98-1.63s.91.35.91,1.63h-1.89Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M780.84,621.42c.95,0,1.69-.48,1.89-1.2,0,.32.04.78.09,1.1h1.93c-.11-.48-.15-1-.15-1.74v-2.78c0-1.69-.82-2.39-2.7-2.39-1.67,0-2.85.75-2.86,2.42h1.99c.01-.74.21-1.14.84-1.14.49,0,.72.28.72.92v.49l-1.32.23c-.8.15-1.39.37-1.75.68-.39.33-.64.82-.64,1.46,0,1.18.75,1.95,1.97,1.95ZM781.66,620.1c-.47,0-.72-.32-.72-.82,0-.58.32-.88.95-1.02l.76-.16v.92c0,.66-.4,1.07-.99,1.07Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M787.44,611.53h-1.97v9.78h1.97v-9.78Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M787.85,615.91h.96v3.38c0,1.38.67,2.07,2.22,2.07.4,0,.74-.04,1.11-.11v-1.6c-.16.03-.31.04-.52.04-.56,0-.84-.31-.84-.9v-2.89h1.35v-1.34h-1.35v-2.29l-1.97.72v1.56h-.96v1.34Z" style="fill: #000; stroke-width: 0px;"/>
+      <path d="M792.66,621.31h1.97v-3.98c0-.98.31-1.46.91-1.46.51,0,.76.35.76,1.06v4.38h1.98v-4.61c0-1.55-.6-2.31-1.81-2.31-.88,0-1.51.44-1.85,1.3v-4.16h-1.97v9.78Z" style="fill: #000; stroke-width: 0px;"/>
+    </g>
+    <g id="svelte-zo497q-svg">
+      <g id="callout-line-svg">
+        <path d="M687.78,261.42c6.12-9.36,8.42-20.07,6.91-32.13" style="fill: none; stroke: #1a1a1a;"/>
+        <path d="M691.12,234.18l3.57-4.88,3.92,4.61" style="fill: none; stroke: #1a1a1a; stroke-miterlimit: 4; stroke-width: 1px;"/>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <text transform="translate(589.89 280.42)" style="fill: #12181e; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Morbidity-dri</tspan><tspan x="82.47" y="0" style="letter-spacing: 0em;">v</tspan><tspan x="89.36" y="0">en conditions</tspan></text>
+    </g>
+    <g id="svelte-zo497q-svg-2" data-name="svelte-zo497q-svg">
+      <g id="callout-line-svg-2" data-name="callout-line-svg">
+        <path d="M168.29,184.92c-.88,11.43,2.53,21.86,10.25,31.29" style="fill: none; stroke: #1a1a1a;"/>
+        <path d="M179.02,210.18l-.48,6.03-5.76-1.87" style="fill: none; stroke: #1a1a1a; stroke-miterlimit: 4; stroke-width: 1px;"/>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <text transform="translate(86.84 178.92)" style="fill: #12181e; font-family: Larsseit, Larsseit; font-size: 14px; isolation: isolate;"><tspan x="0" y="0">Mo</tspan><tspan x="20.4" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="25.24" y="0">tality-dri</tspan><tspan x="77.54" y="0" style="letter-spacing: 0em;">v</tspan><tspan x="84.43" y="0">en conditions</tspan></text>
+    </g>
+  </g>
+</svg>
